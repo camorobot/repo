@@ -66,7 +66,7 @@
         </sectopn>
         <section class="wrapper-New">
             <div class="div-title">
-                <h1 class="title">Populaire</h1>
+                <h1 class="title">Niewe Binnen</h1>
             </div>
             <div class="div-cards">
                 <div class="card">
@@ -101,6 +101,9 @@
                 </div>
             </div>
         </sectopn>
+    </section>
+    <section class="footer">
+        
     </section>
 </body>
 </html>
